@@ -14,7 +14,7 @@
     <div class="top_block">
 	<p class="title_p">Король Олександр</p>
         <div class="left_block">
-            <div class="photo_box"><img src="photo.jpg"></div>
+            <div class="photo_box" alt="Profile photo"><img src="Photo.jpg"></div>
         </div>
     </div>
 	
@@ -102,7 +102,7 @@
             <li><a href="list.html">Список</a></li>
             <li><a href="table.html">Таблиця</a></li>
             <li><a href="form.html">Форма</a></li>
-            <li><a href="Screenshot 2022-02-15 225755.png">Презентація</a></li>
+            <li><a href="CV.png">Презентація</a></li>
         </ul>
     </div>
 
